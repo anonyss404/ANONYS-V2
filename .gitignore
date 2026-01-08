@@ -1,0 +1,3 @@
+*.x.c
+*.sh.bak
+.bash_history
